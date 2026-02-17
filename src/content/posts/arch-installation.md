@@ -5,11 +5,7 @@ pinned: true
 description: 记录Arch Linux的安装过程、配置步骤及遇到问题的解决方法。
 tags: [Arch Linux, Installation, Guide, Linux]
 category: Tutorial
-licenseName: "CC BY-SA 4.0"
-author: zhenyan121
-sourceLink: "https://github.com/zhenyan121/blog"
 draft: false
-date: 2026-02-17
 image: ''
 ---
 # 🐧 Arch Linux 安装与配置日志
