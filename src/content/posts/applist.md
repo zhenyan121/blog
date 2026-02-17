@@ -5,11 +5,7 @@ pinned: true
 description: 这是我日常使用的Arch Linux软件列表，涵盖开发、办公、娱乐等工具。
 tags: [Arch Linux, Linux, Software, List]
 category: Linux
-licenseName: "CC BY-SA 4.0"
-author: zhenyan121
-sourceLink: "https://github.com/zhenyan121/blog"
 draft: false
-date: 2026-02-17
 image: ''
 ---
 ### 🖥️ 基础系统 & 内核
