@@ -16,24 +16,23 @@ export type DeviceCategory = {
 };
 
 export const devicesData: DeviceCategory = {
-	OnePlus: [
+	iQOONeo: [
 		{
-			name: "OnePlus 13T",
-			image: "/images/device/oneplus13t.png",
-			specs: "Gray / 16G + 1TB",
-			description:
-				"Flagship performance, Hasselblad imaging, 80W SuperVOOC.",
-			link: "https://www.oneplus.com/cn/13t",
+			name: "iQOO Neo10 Pro+",
+			image: "/images/device/iqooneo10proplus.png",
+			specs: "超级像素 / 16G + 512G",
+			description: "6800mAh电池,120W超快闪充,2k144HZ,外观喜欢",
+			link: "https://www.vivo.com.cn/vivo/param/iqooneo10proplus",
 		},
 	],
-	Router: [
+	LapTop: [
 		{
-			name: "GL-MT3000",
-			image: "/images/device/mt3000.png",
-			specs: "1000Mbps / 2.5G",
-			description:
-				"Portable WiFi 6 router suitable for business trips and home use.",
-			link: "https://www.gl-inet.cn/products/gl-mt3000/",
+			name: "联想R9000P 2025",
+			image: "/images/device/r9000p2025.jpg",
+			specs: "8745HX + RTX5060",
+			description: "亏",
+			link: "https://item.lenovo.com.cn/product/1045455.html",
 		},
 	],
 };
+
