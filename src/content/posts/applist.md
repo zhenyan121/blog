@@ -45,6 +45,7 @@ network-manager-applet    # GNOME 网络托盘小程序
 dnsmasq                   # DNS/DHCP 服务（用于虚拟机或本地解析）
 bluetui                   # TUI 蓝牙管理器
 bluez                     # 蓝牙协议栈（随 GNOME 安装）
+iperf3                    # 网络测速工具
 ```
 
 ---
@@ -168,6 +169,7 @@ gdb                      # GNU 调试器
 lldb                     # LLVM 调试器
 miniconda3               # Python 环境管理器（含 conda）
 reaper                   # 数字音频工作站（DAW）
+npm                      # 你不知道吗
 ```
 
 ---
