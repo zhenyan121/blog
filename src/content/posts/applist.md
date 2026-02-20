@@ -46,6 +46,7 @@ dnsmasq                   # DNS/DHCP 服务（用于虚拟机或本地解析）
 bluetui                   # TUI 蓝牙管理器
 bluez                     # 蓝牙协议栈（随 GNOME 安装）
 iperf3                    # 网络测速工具
+localsend                 # 局域网传文件神器
 ```
 
 ---
