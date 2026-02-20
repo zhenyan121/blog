@@ -3,14 +3,14 @@ title: 投影mod使用教程
 published: 2026-02-20
 pinned: true
 description: 本教程详细介绍如何安装、配置和使用投影mod，适用于主流游戏平台与自定义地图场景。
-tags: [Mod, 投影, 教程, 游戏Mod, 使用指南]
+tags: [Mod, 投影, 教程, Minecraft, 使用指南]
 category: 游戏Mod
 draft: false
 image: ''
 ---
 ### 1. 安装 mod
 
-你需要安装 `MaLiLib`、`Litematica`、`Litematica Printer` 这三个 mod。
+你需要安装 `MaLiLib`、`Litematica`、`Litematica Printer`、`Syncmatica` 这四个 mod。
 
 - **MaLiLib**：这是投影 mod 的前置。
 - **Litematica**：这是投影 mod 的本体。
@@ -113,10 +113,14 @@ image: ''
    使用右键可以快速移动放置原点到你需要的位置，左键也可以。
 
 3. **填充工具**  
-   努力编写中....
+   用于填充选区
+
+   `Alt` + 鼠标中键：选择要填充的方块。
+
+   使用执行操作的快捷键填充选区
 
 4. **替换方块**  
-   用于批量替换原理图的方块：
+   用于批量替换选区的方块：
 
    ![alt text](image-12.webp)
 
@@ -126,6 +130,7 @@ image: ''
    ![alt text](image-13.webp)
 
    设置一个快捷键，执行这个快捷键就可以替换方块了。
+   也可以使用执行操作的快捷键，不需要新设计一个
 
 5. **粘贴原理图**  
    使用上面配置的：
@@ -134,7 +139,12 @@ image: ''
 
    就可以在创造模式下快速放置原理图。
 
-6. 7. 8. 9. 不讲。
+6. 8. 9. 不讲。
+
+7. **移动工具**
+   注意一下:原理图放置修改的是原理图的位置
+   填充工具、替换方块、移动工具和删除工具都是修改选区的，**选区和原理图**是不同的
+
 
 ---
 
