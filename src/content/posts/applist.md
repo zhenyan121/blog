@@ -75,7 +75,8 @@ bat                       # 现代 cat 替代
 
 ```
 gnome-desktop            # GNOME 桌面核心
-gdm                      # GNOME 显示管理器
+gdm                      # GNOME 显示管理器(已经替换成ly)
+ly                       # TUI 的显示管理器
 gnome-tweaks             # GNOME 调优工具
 gnome-extensions-app     # 扩展管理器（通过 flatpak 安装 extension-manager）
 gnome-control-center     # 设置中心
@@ -171,6 +172,7 @@ lldb                     # LLVM 调试器
 miniconda3               # Python 环境管理器（含 conda）
 reaper                   # 数字音频工作站（DAW）
 npm                      # 你不知道吗
+libc++                   # LLVM C++ 库  
 ```
 
 ---
@@ -198,6 +200,7 @@ musicfox                 # TUI 网易云音乐客户端
 Linuxqq                  # QQ（AppImage，AUR）
 netease-cloud-music-rust-gtk # 网易云第三方客户端（AUR）
 hmcl                     # 我的世界启动器
+pipes.sh                 # 终端随机管道显示
 ```
 
 ---
