@@ -87,7 +87,7 @@ nautilus-terminal        # 在 Nautilus 中打开终端插件
 nautilus-open-any-terminal # 替代方案（后安装）
 kitty                    # 终端模拟器（替换 ghostty）
 waypaper                 # 壁纸管理器（虽 GNOME 不支持但保留）
-swww                     # Wayland 动态壁纸后端
+awww                     # Wayland 动态壁纸后端
 waybar                   # Wayland 状态栏（使用 mechabar 主题）
 fuzzel                   # Wayland 应用启动器
 nwg-look                 # GTK 主题切换器
@@ -192,6 +192,7 @@ cava                     # 音频可视化
 timg                     # 终端图像查看器
 rssguard                 # RSS 阅读器
 okular                   # PDF/文档阅读器（含 VLC 支持版）
+bookokrat-bin            # TUI的PDF/EBUP阅读器
 kdenlive                 # 视频编辑器
 onlyoffice               # Office 套件
 transmission-gtk         # BT 下载客户端
