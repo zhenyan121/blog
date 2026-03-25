@@ -58,9 +58,7 @@ sudo                      # 提权工具
 zsh                       # 默认 Shell
 vim                       # 文本编辑器
 neovim                    # 现代 Vim
-vscode                    # 图形化代码编辑器
-useradd (wheel)           # 普通用户 + wheel组
-visudo                    # sudoers 配置工具
+visual-studio-code-bin    # 图形化代码编辑器
 paru                      # AUR 助手
 pacseek                   # TUI 包搜索工具
 fzf                       # 模糊查找
@@ -86,7 +84,7 @@ nautilus                 # 文件管理器（默认）
 nautilus-terminal        # 在 Nautilus 中打开终端插件
 nautilus-open-any-terminal # 替代方案（后安装）
 kitty                    # 终端模拟器（替换 ghostty）
-waypaper                 # 壁纸管理器（虽 GNOME 不支持但保留）
+waypaper-git             # 壁纸管理器(AUR)
 awww                     # Wayland 动态壁纸后端
 waybar                   # Wayland 状态栏（使用 mechabar 主题）
 fuzzel                   # Wayland 应用启动器
@@ -107,7 +105,6 @@ libnotify                # 通知库
 
 ```
 steam                    # 游戏平台
-uu                      # UU 加速器（Steam Deck 插件）
 gamescope                # 游戏窗口管理器
 mangojuice               # MangoHud 的替代品（后安装）
 gamemoderun              # 游戏优化运行器
@@ -154,9 +151,6 @@ fcitx5-pinyin-zhwiki     # 雾凇拼音词库
 fonts-noto-cjk           # 思源黑体（中日韩字体）
 nerd-fonts               # 编程字体（带图标）
 jetbrains-mono-nerd      # JetBrains Mono Nerd 字体（后设为默认）
-fontconfig               # 字体渲染配置
-locale-gen               # 本地化生成
-zh_CN.UTF-8 / en_US.UTF-8 # 多语言支持
 ```
 
 ---
@@ -171,8 +165,10 @@ gdb                      # GNU 调试器
 lldb                     # LLVM 调试器
 miniconda3               # Python 环境管理器（含 conda）
 reaper                   # 数字音频工作站（DAW）
-npm                      # 你不知道吗
+npm                      # 你不知道吗  
 libc++                   # LLVM C++ 库  
+jdk25-openjdk            # JAVA25  
+jdk21-openjdk            # JAVA21  
 ```
 
 ---
@@ -201,7 +197,8 @@ musicfox                 # TUI 网易云音乐客户端
 Linuxqq                  # QQ（AppImage，AUR）
 netease-cloud-music-rust-gtk # 网易云第三方客户端（AUR）
 hmcl                     # 我的世界启动器
-pipes.sh                 # 终端随机管道显示
+pipes.sh                 # 终端随机管道显示(AUR)
+tabby-bin                # ssh工具
 ```
 
 ---
@@ -226,7 +223,6 @@ gnome-shell-extension-power-tracker   # 电量追踪
 gnome-shell-extension-power-profile-indicator # 电源模式指示器
 gnome-shell-extension-hide-universal-access # 隐藏无障碍菜单
 gnome-shell-extension-tiling-shell   # 平铺窗口扩展
-pywalfox                 # Firefox 主题同步（Firefox 插件配套）
 matugen                  # 根据壁纸生成配色方案
 ```
 
@@ -249,6 +245,7 @@ EDITOR=vim               # 默认编辑器设置
 ```
 firefox                  # 火狐浏览器
 firefox-i18n-zh-cn       # 火狐中文语言包
+google-chrome            # 谷歌浏览器(AUR)
 ```
 
 ---
