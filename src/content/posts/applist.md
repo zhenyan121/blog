@@ -97,6 +97,7 @@ xdg-desktop-portal-gnome # 桌面门户（Flatpak/Wayland 集成）
 polkit-gnome             # PolicyKit 认证代理
 mako                     # 通知守护进程
 libnotify                # 通知库
+imagemagick              # 图片处理工具    
 ```
 
 ---
