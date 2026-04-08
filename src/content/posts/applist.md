@@ -139,6 +139,7 @@ gst-plugins-base         # GStreamer 基础插件
 gst-plugins-good         # GStreamer 优质插件
 gst-libav                # GStreamer LibAV 插件
 gvfs-smb                 # SMB 网络文件系统支持
+flite                    # 语音合成库
 ```
 
 ---
