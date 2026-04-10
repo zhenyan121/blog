@@ -140,6 +140,9 @@ gst-plugins-good         # GStreamer 优质插件
 gst-libav                # GStreamer LibAV 插件
 gvfs-smb                 # SMB 网络文件系统支持
 flite                    # 语音合成库
+go-musicfox              # TUI 网易云音乐客户端(AUR)
+beep                     # 控制蜂鸣器
+mpd                      # 一个音乐播放的服务端
 ```
 
 ---
@@ -195,7 +198,6 @@ kdenlive                 # 视频编辑器
 onlyoffice               # Office 套件
 transmission-gtk         # BT 下载客户端
 marktext                 # Markdown 编辑器（AUR）
-musicfox                 # TUI 网易云音乐客户端
 Linuxqq                  # QQ（AppImage，AUR）
 netease-cloud-music-rust-gtk # 网易云第三方客户端（AUR）
 hmcl                     # 我的世界启动器
