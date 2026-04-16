@@ -174,6 +174,7 @@ npm                      # 你不知道吗
 libc++                   # LLVM C++ 库  
 jdk25-openjdk            # JAVA25  
 jdk21-openjdk            # JAVA21  
+tokei                    # 代码统计工具
 ```
 
 ---
