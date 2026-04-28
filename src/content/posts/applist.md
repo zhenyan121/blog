@@ -175,6 +175,7 @@ libc++                   # LLVM C++ 库
 jdk25-openjdk            # JAVA25  
 jdk21-openjdk            # JAVA21  
 tokei                    # 代码统计工具
+pre-commit               # 钩子
 ```
 
 ---
