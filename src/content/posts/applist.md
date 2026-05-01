@@ -178,6 +178,7 @@ jdk21-openjdk            # JAVA21
 tokei                    # 代码统计工具
 pre-commit               # 钩子
 blender                  # 3d建模软件
+rustup                   # rust工具链管理
 ```
 
 ---
