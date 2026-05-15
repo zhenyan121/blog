@@ -122,6 +122,7 @@ hyprpicker               # 颜色选择器（游戏/截图辅助）
 slurp                    # 区域选择工具
 wl-clipboard             # Wayland 剪贴板
 clipse                   # 剪贴板历史（推测是 clipman 或类似）
+oopz                     # 语音交流
 ```
 
 ---
@@ -208,6 +209,8 @@ netease-cloud-music-rust-gtk # 网易云第三方客户端（AUR）
 hmcl                     # 我的世界启动器
 pipes.sh                 # 终端随机管道显示(AUR)
 tabby-bin                # ssh工具
+drawy                    # 白板工具
+xorg-xlsclients          # 检测应用是否运行在x11下
 ```
 
 ---
