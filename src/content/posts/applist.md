@@ -204,7 +204,8 @@ kdenlive                 # 视频编辑器
 onlyoffice               # Office 套件
 transmission-gtk         # BT 下载客户端
 marktext                 # Markdown 编辑器（AUR）
-Linuxqq                  # QQ（AppImage，AUR）
+linuxqq-appimage         # QQ（AppImage，AUR）
+linuxqq-clipsync-git     # 修复wayland下Linuxqq剪切板无法同步的问题
 netease-cloud-music-rust-gtk # 网易云第三方客户端（AUR）
 hmcl                     # 我的世界启动器
 pipes.sh                 # 终端随机管道显示(AUR)
