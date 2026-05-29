@@ -212,6 +212,7 @@ pipes.sh                 # 终端随机管道显示(AUR)
 tabby-bin                # ssh工具
 drawy                    # 白板工具
 xorg-xlsclients          # 检测应用是否运行在x11下
+aria2                    # 多线程下载工具
 ```
 
 ---
