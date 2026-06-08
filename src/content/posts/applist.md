@@ -180,6 +180,7 @@ tokei                    # 代码统计工具
 pre-commit               # 钩子
 blender                  # 3d建模软件
 rustup                   # rust工具链管理
+cuda                     # cuda 工具链
 ```
 
 ---
@@ -206,7 +207,6 @@ transmission-gtk         # BT 下载客户端
 marktext                 # Markdown 编辑器（AUR）
 linuxqq-appimage         # QQ（AppImage，AUR）
 linuxqq-clipsync-git     # 修复wayland下Linuxqq剪切板无法同步的问题
-netease-cloud-music-rust-gtk # 网易云第三方客户端（AUR）
 hmcl                     # 我的世界启动器
 pipes.sh                 # 终端随机管道显示(AUR)
 tabby-bin                # ssh工具
