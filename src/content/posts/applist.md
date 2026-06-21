@@ -183,6 +183,7 @@ rustup                   # rust工具链管理
 cuda                     # cuda 工具链
 opencode                 # AI编程工具
 cc-switch                # AI编程工具供应商切换
+heaptrack                # 内存分析工具
 ```
 
 ---
