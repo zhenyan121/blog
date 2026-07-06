@@ -145,6 +145,7 @@ flite                    # 语音合成库
 go-musicfox              # TUI 网易云音乐客户端(AUR)
 beep                     # 控制蜂鸣器
 mpd                      # 一个音乐播放的服务端
+audacity                 # 开源的音频编辑工具
 ```
 
 ---
