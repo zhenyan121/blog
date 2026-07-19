@@ -265,6 +265,7 @@ EDITOR=vim               # 默认编辑器设置
 firefox                  # 火狐浏览器
 firefox-i18n-zh-cn       # 火狐中文语言包
 google-chrome            # 谷歌浏览器(AUR)
+kazumi                   # 看番工具
 ```
 
 ---
