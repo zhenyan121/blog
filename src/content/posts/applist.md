@@ -186,6 +186,7 @@ opencode                 # AI编程工具
 cc-switch                # AI编程工具供应商切换
 heaptrack                # 内存分析工具
 blockbench               # 3d建模软件
+assimp                   # 3d模型加载库
 ```
 
 ---
