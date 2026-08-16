@@ -188,6 +188,7 @@ heaptrack                # 内存分析工具
 blockbench               # 3d建模软件
 assimp                   # 3d模型加载库
 android-tools            # android调试工具
+actionlint               # GitHub Actions workflow 文件 的静态分析工具
 ```
 
 ---
