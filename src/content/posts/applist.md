@@ -189,6 +189,8 @@ blockbench               # 3d建模软件
 assimp                   # 3d模型加载库
 android-tools            # android调试工具
 actionlint               # GitHub Actions workflow 文件 的静态分析工具
+ccache                   # CMake缓存工具
+mold                     # 链接器
 ```
 
 ---
