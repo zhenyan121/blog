@@ -33,6 +33,8 @@ inotify-tools             # 文件系统事件监控
 switcheroo-control        # 混合显卡切换服务
 vulkan-tools              # Vulkan 调试工具
 vulkan-radeon             # Radeon Vulkan 驱动（备用/兼容）
+pipewire-alsa             # ALSA 兼容
+alsa-utils                # ALSA工具包
 ```
 
 ---
