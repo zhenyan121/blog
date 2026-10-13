@@ -68,6 +68,7 @@ zoxide                    # 智能目录跳转
 eza                       # 现代 ls 替代
 bat                       # 现代 cat 替代
 less                      # 查看文件
+strace                    # 系统调用跟踪工具
 ```
 
 ---
