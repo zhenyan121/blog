@@ -126,6 +126,7 @@ slurp                    # 区域选择工具
 wl-clipboard             # Wayland 剪贴板
 clipse                   # 剪贴板历史（推测是 clipman 或类似）
 oopz                     # 语音交流
+prismlauncher            # qt写的我的世界启动器
 ```
 
 ---
