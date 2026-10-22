@@ -229,6 +229,7 @@ xorg-xlsclients          # 检测应用是否运行在x11下
 aria2                    # 多线程下载工具
 pokego-bin               # 显示终端宝可梦(AUR)
 tiled                    # 2D 瓦片地图编辑器
+gtranslator              # po编辑工具
 ```
 
 ---
