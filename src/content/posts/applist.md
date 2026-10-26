@@ -101,7 +101,9 @@ xdg-desktop-portal-gnome # 桌面门户（Flatpak/Wayland 集成）
 polkit-gnome             # PolicyKit 认证代理
 mako                     # 通知守护进程
 libnotify                # 通知库
-imagemagick              # 图片处理工具    
+imagemagick              # 图片处理工具
+breeze                   # breeze主题
+breeze5                  # qt5的breeze主题兼容    
 ```
 
 ---
