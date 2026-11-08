@@ -166,6 +166,7 @@ fonts-noto-cjk           # 思源黑体（中日韩字体）
 nerd-fonts               # 编程字体（带图标）
 jetbrains-mono-nerd      # JetBrains Mono Nerd 字体
 inter-font               # Inter 字体
+ttf-maplemono-nf-cn      # JetBrains Maple 字体
 ```
 
 ---
