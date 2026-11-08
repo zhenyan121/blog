@@ -164,7 +164,8 @@ fcitx5-rime              # Rime 输入引擎
 fcitx5-pinyin-zhwiki     # 雾凇拼音词库
 fonts-noto-cjk           # 思源黑体（中日韩字体）
 nerd-fonts               # 编程字体（带图标）
-jetbrains-mono-nerd      # JetBrains Mono Nerd 字体（后设为默认）
+jetbrains-mono-nerd      # JetBrains Mono Nerd 字体
+inter-font               # Inter 字体
 ```
 
 ---
